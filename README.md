@@ -1,2 +1,0 @@
-# rktechnical.github.io
- 
