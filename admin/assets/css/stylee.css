@@ -1,0 +1,9 @@
+*{margin:0;padding:0}
+.main_content{
+	margin-top:50px;
+}
+.content{
+	padding:10px;
+	border:1px solid #ccc;
+	box-shadow: 1px 1px 7px #aaa;
+}
